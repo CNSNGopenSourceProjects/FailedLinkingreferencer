@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Theme Design</string>
+    <string name="hint_email">Email...</string>
+    <string name="hint_senha">Senha...</string>
+    <string name="login">Login</string>
+    <string name="botao_elevado">Botão \n Elevado</string>
+    <string name="flat_button">Flat \n Button</string>
+</resources>
